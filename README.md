@@ -1,3 +1,2 @@
 # Garry-s-Mod-RTX-Edition
-I have got an idea to make a really good RTX edition port of Garry's Mod in Source SDK Base 2013 multiplayer working on it Visual Studio 2013.
-So 0.3 is nearly complete. I don't know what to do now. Check the project website for more info on the situation.
+I have got an idea to make a really good RTX edition port of Garry's Mod in Source SDK Base 2013 multiplayer working on it Visual Studio 2013. 0.3 IS RELEASED FINALLY YES!
